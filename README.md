@@ -5,7 +5,3 @@ Their sprites,
 Their types,
 Their abilities,
 Their stats,
-
-
-
-Ceci est un test.
